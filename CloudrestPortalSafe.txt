@@ -1,8 +1,8 @@
 ## Title: |c8F7FFFCloudrest|r Portal Safe
 ## Author: akasha167
-## Version: 1.0.3
+## Version: 1.0.4
 ## Description: Displays an alert when a tank entered the portal in Cloudrest or left for any reason. As the alert is based on the portal debuff proc, this add-on only works in veteran mode.
-## APIVersion: 101044 101045
+## APIVersion: 101045 101046
 ## DependsOn: LibAddonMenu-2.0
 ## SavedVariables: CRPSVars
 
@@ -18,6 +18,9 @@ CloudrestPortalSafe.lua
 CloudrestPortalSafeMenu.lua
 
 ; Changelog:
+;
+; Version 1.0.4 (2025/05/31)
+; * API bump
 ;
 ; Version 1.0.3 (2025/02/06)
 ; * API bump
