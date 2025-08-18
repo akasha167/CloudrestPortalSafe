@@ -1,6 +1,6 @@
 CRPS = CRPS or {}
 CRPS.name = "CloudrestPortalSafe"
-CRPS.version = "1.0.4"
+CRPS.version = "1.0.5"
 CRPS.varsName = "CRPSVars"
 CRPS.varsVersion = 1
 
